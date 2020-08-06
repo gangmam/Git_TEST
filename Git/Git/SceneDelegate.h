@@ -10,7 +10,7 @@
 
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 
-@property (strong, nonatomic) UIWindow * window;
+@property (strong, nonatomic) UIWindow * windo;
 @property (strong, nonatomic) UIWindow * window2;
 
 @end
